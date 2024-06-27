@@ -8,3 +8,12 @@ In Step 4, I had to write a program to extract and read the Forex data.
 ### Modules Used:
 - `os`
 - `zipfile`
+
+## 2. **time series**
+ In Step 5, I worked on the Forex data mentioned earlier and calculated the moving average of this data. Additionally, I practiced with the Seattle Bicycle Counts using Python Data Science Handbook by Jake VanderPlas.
+Modules Used:
+
+### modules Used:
+- `zipfile`
+- `pandas`
+- `numpy`
